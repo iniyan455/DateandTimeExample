@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateandTime</string>
+    <string name="eaadhaar_pass_desc">Use the combination of <b>first 4 letters of your name</b> as displayed in your Aadhaar document (in CAPITAL letters) and the <b>year of your birth</b>(YYYY).</string>
+
+</resources>
